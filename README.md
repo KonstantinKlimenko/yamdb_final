@@ -1,4 +1,4 @@
-https://github.com/KonstantinKlimenko/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+# YaMDb API ![example workflow](https://github.com/KonstantinKlimenko/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ### yamdb_final
 
